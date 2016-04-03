@@ -1,41 +1,41 @@
-title: Mehran Haghirian
-purpose: []
+typography_spectrum: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+layout_spectrum: 1
+title: Mehran Haghirian
+purpose: []
 color:
   saturation: 0.2043011
   brandStrength: 1
-  lightness: 0.02329749
+  rhythmicContrast: 0.3189964
   brandColors:
     - '#0D0402'
     - '#5C4B39'
     - '#918877'
     - '#E9E0B4'
     - '#AB8718'
-  rhythmicContrast: 0.3189964
+  lightness: 0.02329749
 cta:
   bucket: null
   version: null
   domain: null
+favicon: null
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
-name: MehranHaghirian
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 1
-layout_spectrum: 1
+name: Mehran   Haghirian
